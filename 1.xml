@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Module file, saved 3/3/2026 1:10:26 AM by Пользователь using CourseLab 240108 -->
+<module format="3.5 240108" rev="2" slideWidth="1280" slideHeight="720" template="" file="E:\CourseLab\1\1.xml">
+<font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="18" color="#000000"/>
+<default_text></default_text>
+<newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
+<import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<nextidentity slide="34" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<moduleColors>
+<color>996600</color>
+<color>cc9900</color>
+<color>ffcc00</color>
+<color>ffff00</color>
+<color>ffff99</color>
+<color>ffdb9d</color>
+<color>ffcc66</color>
+<color>ff9933</color>
+<color>ff794b</color>
+<color>ff3300</color>
+<color>990000</color>
+<color>333366</color>
+<color>003399</color>
+<color>0066cc</color>
+<color>0083d7</color>
+<color>0099ff</color>
+<color>3e9ade</color>
+<color>99ccff</color>
+<color>b4e2ff</color>
+<color>deffff</color>
+<color>ffccff</color>
+<color>ccccff</color>
+<color>9999ff</color>
+<color>6666cc</color>
+<color>9999cc</color>
+<color>666699</color>
+<color>006600</color>
+<color>009900</color>
+<color>66cc33</color>
+<color>99ff66</color>
+<color>ccffcc</color>
+</moduleColors>
+<guideLines>
+<guideLine pos="50" isVertical="no"/>
+<guideLine pos="678" isVertical="no"/>
+<guideLine pos="51" isVertical="yes"/>
+<guideLine pos="1226" isVertical="yes"/>
+</guideLines>
+<slides>
+<slide guid="f0153ff7_9b62_4f48_8348_eebaf2ed899c" id="MASTER1" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="6c0dae50_0ae2_4c53_8f9a_ddbfbae06c33" id="FRAME_4" expanded="yes" dur="0">
+<objects>
+<object type="div" guid="2711cffe_8319_438f_938d_e7808ab88986" id="OBJ_2" label="Название слайда" expanded="yes" state_extension="false" left="51" top="2" width="543" height="50" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>nav_010_slidename</template>
+<design_content><![CDATA[<style >
+		.cl-slidename-bg-var { width: 541px; height: 48px;  }
+		.cl-slidename-table-var { width: 541px; height: 48px;  }
+		.cl-slidename-txt-box-var {  padding: 10px 10px; text-align: left; color: #000000; font-size: 14px; font-family: robotoblack, 'Arial Black', Gadget, sans-serif; }
+	</style><div class="cl-container" ><div class="cl-slidename-bg cl-slidename-bg-var"><table cellpadding="0" cellspacing="0" border="0" class="cl-slidename-table cl-slidename-table-var"><tr><td class="cl-slidename-txt-box cl-slidename-txt-box-var"><span class="cl-slide-name">Название слайда</span></td></tr></table></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_2 .cl-slidename-bg-var"><span class="rule-static">width: 541px; height: 48px; border: 0 none;</span></div><div class="rule" data-name="#OBJ_2 .cl-slidename-table-var"><span class="rule-static">width: 541px; height: 48px;</span></div><div class="rule" data-name="#OBJ_2 .cl-slidename-txt-box-var"><span class="rule-static"> font-size: 14px; padding: 10px 10px; text-align: left; color: #000000; font-family: robotoblack, 'Arial Black', Gadget, sans-serif;</span></div></div><div class="cl-container unselectable" ><div class="cl-slidename-bg cl-slidename-bg-var"><table cellpadding="0" cellspacing="0" border="0" class="cl-slidename-table cl-slidename-table-var"><tr><td class="cl-slidename-txt-box cl-slidename-txt-box-var"><span class="cl-slide-name">Название слайда</span></td></tr></table></div></div>]]></export_content>
+<params>
+<hidden.label type="edit">Название слайда</hidden.label>
+<hidden.slide type="edit">Слайд</hidden.slide>
+<display_type type="select">name</display_type>
+<divider type="edit">.</divider>
+<text_padding_h type="spinner">10</text_padding_h>
+<text_padding_v type="spinner">10</text_padding_v>
+<text_align type="select">left</text_align>
+<font type="select">robotoblack</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">14</font_size>
+<text_shadow_strength type="select">none</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<font_color type="color">#000000</font_color>
+<display_bg type="check">no</display_bg>
+<fs_bg type="fieldset"></fs_bg>
+<fill_type type="select">transparent</fill_type>
+<bg_color type="color">#400080</bg_color>
+<fs_custom type="fieldset"></fs_custom>
+<gradient_color type="color">#FFFFFF</gradient_color>
+<gradient_angle type="spinner">0</gradient_angle>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img type="file"></bg_img>
+<border_style type="select">none</border_style>
+<border_color type="color">#400080</border_color>
+<border_width type="spinner">1</border_width>
+<radius type="spinner">5</radius>
+<shadow_strength type="select">normal</shadow_strength>
+</params>
+</object>
+<object type="image" guid="f0583465_992f_42e7_ae60_ed85d9160102" id="IMG_26" label="Картинка" expanded="yes" left="26" top="581" width="137" height="135" display="frame" begin="0">
+<src>images\влево.png</src>
+<events>
+<onclick id="IMG_26_1" expanded="yes" type="actions">
+<GOTO option="4" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="71e35377_4bf5_449c_a5ff_7622673bd766" id="IMG_27" label="Картинка 2" expanded="yes" left="1125" top="579" width="137" height="135" display="frame" begin="0">
+<src>images\вправо.png</src>
+<events>
+<onclick id="IMG_27_1" expanded="yes" type="actions">
+<GOTO option="3" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="1208b3a8_3893_485e_a590_116d64fe6401" id="IMG_28" label="Картинка 3" expanded="yes" left="1124" top="6" width="137" height="135" display="frame" begin="0">
+<src>images\глоссарий.png</src>
+<events>
+<onclick id="IMG_28_1" expanded="yes" type="actions">
+<GOSUB option="0" fs_frame="" pid="FRAME_11"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="4fa69df8_7d0c_498b_9ec3_5edaa9ca2d63" id="IMG_30" label="Картинка 18" expanded="yes" left="999" top="6" width="137" height="135" display="frame" begin="0">
+<src>images\оглавление.png</src>
+<events>
+<onclick id="IMG_30_1" expanded="yes" type="actions">
+<GOSUB option="0" fs_frame="" pid="FRAME_13"/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="730d4e21_85b9_4cf3_be97_024654d4d407" id="SLIDE_7" expanded="yes" sid="24" master="1">
+<subslides>
+<subslide guid="1c2f2f85_84ce_456b_99d7_b92c2fa11cb5" id="FRAME_8" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="ebb71812_4898_49bf_a0c0_6bdf5f3de002" id="IMG_33" label="Картинка 23" expanded="yes" left="26" top="581" width="137" height="135" display="frame" begin="0">
+<src>images\влево.png</src>
+<events>
+<onclick id="IMG_33_1" expanded="yes" type="actions">
+<GOTO option="4" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="d7a2a00f_921d_466e_8233_50ee7d8f5455" id="IMG_34" label="Картинка 24" expanded="yes" left="1125" top="579" width="137" height="135" display="frame" begin="0">
+<src>images\вправо.png</src>
+<events>
+<onclick id="IMG_34_1" expanded="yes" type="actions">
+<GOTO option="3" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="286eb833_61c0_4e4b_9807_4bf3c106105f" id="IMG_35" label="Картинка 25" expanded="yes" left="1124" top="6" width="137" height="135" display="frame" begin="0">
+<src>images\глоссарий.png</src>
+<events>
+<onclick id="IMG_35_1" expanded="yes" type="actions">
+<GOSUB option="0" fs_frame="" pid="FRAME_11"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="310c1898_be76_42f5_9e40_a1700b106024" id="IMG_41" label="Картинка 26" expanded="yes" left="999" top="6" width="137" height="135" display="frame" begin="0">
+<src>images\оглавление.png</src>
+<events>
+<onclick id="IMG_41_1" expanded="yes" type="actions">
+<GOSUB option="0" fs_frame="" pid="FRAME_13"/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="591525f4_fbaa_4ed0_98fd_b5576a6b6669" id="SLIDE_9" expanded="yes" sid="26" master="1">
+<subslides>
+<subslide guid="e237aa42_60e3_4903_89a9_00df7148e99f" id="FRAME_10" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="3bd62122_cb55_4fb7_b73b_113f0f607d92" id="IMG_42" label="Картинка 27" expanded="yes" left="14" top="566" width="150" height="148" display="frame" begin="0">
+<src>images\влево.png</src>
+<events>
+<onclick id="IMG_42_1" expanded="yes" type="actions">
+<GOTO option="4" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="4aed44b7_312f_4b3b_9ab4_ef287f132c98" id="IMG_43" label="Картинка 28" expanded="yes" left="1112" top="568" width="150" height="148" display="frame" begin="0">
+<src>images\вправо.png</src>
+<events>
+<onclick id="IMG_43_1" expanded="yes" type="actions">
+<GOTO option="3" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="61e1fe04_125e_4e93_9cee_d0442816170e" id="SLIDE_5" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="353bdb52_ee2e_4f75_b6ea_025fccdec7f5" id="FRAME_6" expanded="yes" dur="0">
+<objects>
+<object type="div" guid="1f21c705_0a2c_4133_babe_52ea0a12f38d" id="OBJ_6" label="Название слайда 1" expanded="yes" state_extension="false" left="51" top="2" width="543" height="50" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>nav_010_slidename</template>
+<design_content><![CDATA[<style >
+		.cl-slidename-bg-var { width: 541px; height: 48px;  }
+		.cl-slidename-table-var { width: 541px; height: 48px;  }
+		.cl-slidename-txt-box-var {  padding: 10px 10px; text-align: left; color: #000000; font-size: 14px; font-family: robotoblack, 'Arial Black', Gadget, sans-serif; }
+	</style><div class="cl-container" ><div class="cl-slidename-bg cl-slidename-bg-var"><table cellpadding="0" cellspacing="0" border="0" class="cl-slidename-table cl-slidename-table-var"><tr><td class="cl-slidename-txt-box cl-slidename-txt-box-var"><span class="cl-slide-name">Название слайда</span></td></tr></table></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_6 .cl-slidename-bg-var"><span class="rule-static">width: 541px; height: 48px; border: 0 none;</span></div><div class="rule" data-name="#OBJ_6 .cl-slidename-table-var"><span class="rule-static">width: 541px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-slidename-txt-box-var"><span class="rule-static"> font-size: 14px; padding: 10px 10px; text-align: left; color: #000000; font-family: robotoblack, 'Arial Black', Gadget, sans-serif;</span></div></div><div class="cl-container unselectable" ><div class="cl-slidename-bg cl-slidename-bg-var"><table cellpadding="0" cellspacing="0" border="0" class="cl-slidename-table cl-slidename-table-var"><tr><td class="cl-slidename-txt-box cl-slidename-txt-box-var"><span class="cl-slide-name">Название слайда</span></td></tr></table></div></div>]]></export_content>
+<params>
+<hidden.label type="edit">Название слайда</hidden.label>
+<hidden.slide type="edit">Слайд</hidden.slide>
+<display_type type="select">name</display_type>
+<divider type="edit">.</divider>
+<text_padding_h type="spinner">10</text_padding_h>
+<text_padding_v type="spinner">10</text_padding_v>
+<text_align type="select">left</text_align>
+<font type="select">robotoblack</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">14</font_size>
+<text_shadow_strength type="select">none</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<font_color type="color">#000000</font_color>
+<display_bg type="check">no</display_bg>
+<fs_bg type="fieldset"></fs_bg>
+<fill_type type="select">transparent</fill_type>
+<bg_color type="color">#400080</bg_color>
+<fs_custom type="fieldset"></fs_custom>
+<gradient_color type="color">#FFFFFF</gradient_color>
+<gradient_angle type="spinner">0</gradient_angle>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img type="file"></bg_img>
+<border_style type="select">none</border_style>
+<border_color type="color">#400080</border_color>
+<border_width type="spinner">1</border_width>
+<radius type="spinner">5</radius>
+<shadow_strength type="select">normal</shadow_strength>
+</params>
+</object>
+<object type="image" guid="0dfe8bcd_5069_45ea_b583_44ba2881321f" id="IMG_44" label="Картинка 29" expanded="yes" left="26" top="581" width="137" height="135" display="frame" begin="0">
+<src>images\влево.png</src>
+<events>
+<onclick id="IMG_44_1" expanded="yes" type="actions">
+<GOTO option="4" fs_frame="" pid=""/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="65d08c1d_2bc0_41c9_a157_297a0aeef673" id="IMG_46" label="Картинка 31" expanded="yes" left="1124" top="6" width="137" height="135" display="frame" begin="0">
+<src>images\глоссарий.png</src>
+<events>
+<onclick id="IMG_46_1" expanded="yes" type="actions">
+<GOSUB option="0" fs_frame="" pid="FRAME_11"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="21d8a5e4_9a42_4f14_aebe_9cf50f4f601e" id="IMG_47" label="Картинка 34" expanded="yes" left="999" top="6" width="137" height="135" display="frame" begin="0">
+<src>images\оглавление.png</src>
+<events>
+<onclick id="IMG_47_1" expanded="yes" type="actions">
+<GOSUB option="0" fs_frame="" pid="FRAME_13"/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="bb9ae08f_4958_4af1_9147_e816e4f34f5c" id="SLIDE_6" expanded="yes" sid="23" master="1">
+<subslides>
+<subslide guid="11582973_aab6_45d6_ba4a_8b1bf2c18aa8" id="FRAME_7" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+<slide guid="74d38bf3_bbdc_4874_99b3_046ca46097b8" id="SLIDE_4" expanded="yes" sid="2" splash="1">
+<subslides>
+<subslide guid="1e796e50_38d8_432c_a01d_3c5fe07c12c3" id="FRAME_3" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="003c6c6c_18a0_4478_9e83_570096d404ef" id="IMG_8" label="Картинка 4" expanded="yes" left="214" top="110" width="867" height="487" display="frame" begin="0">
+<src>images\Снимок экрана 2026-01-26 173222.png</src>
+</object>
+<object type="iebox" guid="3e3e7166_6ded_4e93_830c_f5f8bf1d9010" id="EM1_TTL_NAME" label="" expanded="yes" left="241" top="50" width="817" height="41" display="slide" begin="0">
+<content><![CDATA[<ietext><text>&lt;p align=&quot;center&quot; style=&quot;FONT-FAMILY: Arial; COLOR: #004080; FONT-SIZE: 24px&quot;&gt;&lt;span style=&quot;font-size:36px;&quot;&gt;&lt;span style=&quot;font-family:open_sanssemibold,arial,sans-serif&quot;&gt;Квиз по теме &amp;quot;Персональные данные&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="div" guid="2ffd9ecb_36da_4a6d_ab10_afd397a83d90" id="EM1_TTL_BTN" label="" expanded="yes" state_extension="false" left="546" top="615" width="200" height="50" display="frame" begin="0">
+<template>splash_button_go</template>
+<design_content><![CDATA[<style >
+		.cl-btn { position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; }
+		.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; -webkit-border-radius: 5px; border-radius: 5px;-webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.idle { border-color: #004080; background-color: #0080C0;background-image: -webkit-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+		.cl-btn-bg { position: relative; padding: 0; margin: 0; width: 198px; height: 48px;  }
+		.cl-btn-table { border-spacing: 0; width: 198px; height: 48px; }
+		.cl-btn-table td { text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		.cl-btn-table .cl-btn-table-content { width: 198px; height: 48px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 24px; color: #001F3E;  }
+	</style><div style="position: absolute; width: 200px; height: 50px;" ><div class="cl-btn cl-btn-html idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЧАТЬ</td></tr></table></div></div></div>]]></design_content>
+<export_content><![CDATA[<div style="position: absolute; width: 200px; height: 50px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="НАЧАТЬ" ><div id="EM1_TTL_BTN_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #004080; background-color: #0080C0;background-image: -o-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%);" onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="CL.Start(); return false;" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #004080; background-color: #0080C0;background-image: -o-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%);" data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #004080; background-color: #0080C0;background-image: -o-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(180deg, #0080C0 0%, #A6E1FF 100%);"><div id="EM1_TTL_BTN_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 198px; height: 48px; "><table id="EM1_TTL_BTN_BTN_TABLE" style="border-spacing: 0; width: 198px; height: 48px;"><tr><td id="EM1_TTL_BTN_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); width: 198px; height: 48px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 24px; color: #001F3E; ">НАЧАТЬ</td></tr></table></div></div></div>]]></export_content>
+<params>
+<btn_text type="edit">НАЧАТЬ</btn_text>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<fs_html type="fieldset"></fs_html>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_position type="select">center</bg_position>
+<bg_type type="select">auto</bg_type>
+<bg_color type="color">#0080C0</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_style type="select">solid</border_style>
+<border_color type="color">#004080</border_color>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<fs_text type="fieldset"></fs_text>
+<font type="select">robotomedium</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_color type="color">#001F3E</font_color>
+<font_size type="spinner">24</font_size>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<shadow_strength type="select">normal</shadow_strength>
+<action type="select">go</action>
+<objectid type="objectid"></objectid>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="79ae24d5_e86e_475b_9900_37bcd3f10fb7" id="SLIDE_1" expanded="yes" sid="3" masterid="SLIDE_6" name="Без названия" indent="0" infinite="1" advance="" transition="" durout="">
+<subslides>
+<subslide guid="d02c69b3_a4ed_4055_94ca_f689a44a008e" id="FRAME_5" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="baf360d6_65bd_4651_a52e_bd25dad10042" id="IMG_12" label="Картинка 5" expanded="yes" left="721" top="139" width="504" height="335" display="frame" begin="0">
+<src>images\Снимок экрана 2026-01-26 173048.png</src>
+</object>
+<object type="iebox" guid="8257c74e_b2b7_4722_bdda_21b099860a50" id="TXT_2" label="Текстовый блок" expanded="yes" left="97" top="96" width="627" height="179" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p&gt;&lt;span style=&quot;font-size:36px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Добро пожаловать!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Рады приветствовать вас на научно-познавательной игре&amp;nbsp;по тематике персональных данных&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="ee87abe0_5fb9_4845_85b2_852dd064da9c" id="TXT_3" label="Текстовый блок 1" expanded="yes" left="97" top="273" width="627" height="257" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotoregular,arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; orphans: 2; widows: 2; white-space: pre-wrap;&quot;&gt;Вас ждут 5 (пять) динамичных раундов с разными форматами вопросов по тематике персональных данных. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotoregular,arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; orphans: 2; widows: 2; white-space: pre-wrap;&quot;&gt;Будет полезно, увлекательно и гораздо интереснее, чем разбираться в требованиях законодательства самостоятельно.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="div" guid="f3abd0af_19fd_43e7_99c2_1aee7eedae15" id="OBJ_5" label="Кнопка навигационная" expanded="yes" state_extension="false" left="497" top="607" width="298" height="52" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>nav_0000_btn_navi</template>
+<design_content><![CDATA[<style >
+		.cl-btn { width: 298px; height: 52px; }
+		
+			.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; border-radius: 5px;box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+			.cl-idle { border-color: #004080; background-color: #0080C0;background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+			.cl-btn-bg { width: 296px; height: 50px;  }
+			.cl-btn-table { width: 296px; height: 50px; }
+			.cl-btn-table-content { width: 296px; height: 50px; text-align: center; padding: 0 0px 0 0px;  
+		font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 24px; color: #001F3E; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-html cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">Подключиться к игре</td></tr></table></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 298px; height: 52px;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_5 .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_5 .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#OBJ_5 .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-bg"><span class="rule-static">width: 296px; height: 50px;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-table"><span class="rule-static">width: 296px; height: 50px;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 296px; height: 50px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 24px; color: #001F3E; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_5 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">Подключиться к игре</td></tr></table></div></div></div>]]></export_content>
+<params>
+<role type="select">nextslide</role>
+<selectedslide type="slideid"></selectedslide>
+<selectedframe type="subslideid"></selectedframe>
+<fs_thisslide type="fieldset"></fs_thisslide>
+<text_thisslide type="edit">ПОВТОР</text_thisslide>
+<alt_enabled_thisslide type="edit">Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide type="edit">Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide type="fieldset"></fs_nextslide>
+<text_nextslide type="edit">Подключиться к игре</text_nextslide>
+<alt_enabled_nextslide type="edit">Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide type="edit">Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide type="fieldset"></fs_prevslide>
+<text_prevslide type="edit">НАЗАД</text_prevslide>
+<alt_enabled_prevslide type="edit">Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide type="edit">Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide type="fieldset"></fs_firstslide>
+<text_firstslide type="edit">НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide type="edit">Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide type="edit">Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide type="fieldset"></fs_lastslide>
+<text_lastslide type="edit">КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide type="edit">Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide type="edit">Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe type="fieldset"></fs_nextframe>
+<text_nextframe type="edit">Далее</text_nextframe>
+<alt_enabled_nextframe type="edit">Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe type="edit">Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe type="fieldset"></fs_prevframe>
+<text_prevframe type="edit">Назад</text_prevframe>
+<alt_enabled_prevframe type="edit">Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe type="edit">Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe type="fieldset"></fs_firstframe>
+<text_firstframe type="edit">Начало</text_firstframe>
+<alt_enabled_firstframe type="edit">Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe type="edit">Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe type="fieldset"></fs_lastframe>
+<text_lastframe type="edit">Конец</text_lastframe>
+<alt_enabled_lastframe type="edit">Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe type="edit">Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide type="fieldset"></fs_selectedslide>
+<text_selectedslide type="edit"></text_selectedslide>
+<alt_enabled_selectedslide type="edit">Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide type="edit">Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe type="fieldset"></fs_selectedframe>
+<text_selectedframe type="edit"></text_selectedframe>
+<alt_enabled_selectedframe type="edit">Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe type="edit">Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule type="fieldset"></fs_closemodule>
+<text_closemodule type="edit">ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule type="edit">Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule type="edit"></alt_disabled_closemodule>
+<display_closemodule_msg type="check">no</display_closemodule_msg>
+<closemodule_msg type="edit">Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock type="check">yes</nav_lock>
+<swipe type="check">yes</swipe>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<n3_img type="file"></n3_img>
+<fs_html type="fieldset"></fs_html>
+<bg_type type="select">auto</bg_type>
+<border_style type="select">solid</border_style>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<bg_color type="color">#0080C0</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_color type="color">#004080</border_color>
+<shadow_strength type="select">normal</shadow_strength>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_img_3 type="file"></bg_img_3>
+<bg_position type="select">center</bg_position>
+<fs_text type="fieldset"></fs_text>
+<text_position type="select">center</text_position>
+<text_margin_left type="spinner">0</text_margin_left>
+<text_margin_right type="spinner">0</text_margin_right>
+<font type="select">robotomedium</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">24</font_size>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<font_color type="color">#001F3E</font_color>
+<font_color_over type="color">#4080C0</font_color_over>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="1918df81_9d07_4987_b97a_8ecf988d220b" id="SLIDE_8" expanded="yes" sid="25" masterid="SLIDE_7" name="Без названия" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="5c2de471_3618_4113_bbfa_c41104a982d6" id="FRAME_9" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="7e4e56d3_c3c6_463a_b13b_0aabefc508bf" id="IMG_19" label="Картинка 10" expanded="yes" left="408" top="169" width="415" height="384" display="frame" begin="0">
+<src>images\ChatGPT Image 13 янв. 2026 г., 20_56_16ывпып.png</src>
+</object>
+<object type="autoshape" guid="1eb02cf5_776d_4958_a675_93a5380f333b" id="SHAPE3" label="Стрелка 2" expanded="yes" left="1046" top="600" width="103" height="34" fillColor="#e0f0ff" lineColor="#001f3e" lineWidth="2" endarrow="1" display="frame" begin="0">
+<shape type="line" coordsize="21600,21600">
+</shape>
+</object>
+<object type="autoshape" guid="cbdfa26e_3e97_4757_ac2b_e13b58fc30cb" id="SHAPE4" label="Стрелка 3" expanded="yes" left="150" top="602" width="105" height="30" fillColor="#e0f0ff" lineColor="#001f3e" lineWidth="2" endarrow="1" display="frame" begin="0" flip_x="1">
+<shape type="line" coordsize="21600,21600">
+</shape>
+</object>
+<object type="autoshape" guid="51c42586_7406_4c71_8f25_43d32e0b8aed" id="SHAPE5" label="Стрелка 4" expanded="yes" left="907" top="70" width="107" height="38" fillColor="#e0f0ff" lineColor="#001f3e" lineWidth="2" endarrow="1" display="frame" begin="0" flip_y="1">
+<shape type="line" coordsize="21600,21600">
+</shape>
+</object>
+<object type="autoshape" guid="48795de2_1a2d_4a43_83d1_148a95b0260d" id="SHAPE6" label="Стрелка" expanded="yes" left="1111" top="144" width="72" height="98" fillColor="#e0f0ff" lineColor="#001f3e" lineWidth="2" endarrow="1" display="frame" begin="0" flip_y="1">
+<shape type="line" coordsize="21600,21600">
+</shape>
+</object>
+<object type="iebox" guid="1159eabc_1191_492e_9108_f4bfe90d756d" id="TXT_4" label="Текстовый блок 2" expanded="yes" left="269" top="577" width="720" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:20px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Перемещайтесь по слайдам квиза при помощи кнопок &amp;quot;Вперёд&amp;quot; и &amp;quot;Назад&amp;quot;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="aedd7d9b_26d5_450c_bdf4_3e10f8e4e40b" id="TXT_5" label="Текстовый блок 3" expanded="yes" left="543" top="87" width="351" height="73" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:20px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Если вы захотите повторить квиз с любого слайда, сделайте это через кнопку &amp;quot;Содержание&amp;quot;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="67da64ad_882d_4c13_8344_a94db32dbb61" id="TXT_6" label="Текстовый блок 4" expanded="yes" left="821" top="254" width="351" height="73" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:20px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Если вам понадобятся подсказки или разъяснения по темам квиза, воспользуйтесь глоссарием&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="3347af17_df21_4ef7_b9ca_11db5165890e" id="SLIDE_10" expanded="yes" sid="27" masterid="SLIDE_9" name="Без названия" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="3f9d9e3c_4192_4c74_b01e_8338346a5466" id="FRAME_11" expanded="yes" dur="0">
+<objects>
+<object type="iebox" guid="6048d6dc_7384_447b_b88d_d1d973d1a351" id="TXT_7" label="Текстовый блок 5" expanded="yes" left="95" top="61" width="425" height="76" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:72px;&quot;&gt;&lt;span style=&quot;color:#000080;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif;&quot;&gt;Глоссарий&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="6f9e3279_65b1_4491_82ba_c6d1bc9803ba" id="TXT_8" label="Текстовый блок 6" expanded="yes" left="79" top="157" width="1151" height="405" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;table style=&quot;border: 1px solid rgb(0, 0, 0); border-spacing: 0px; border-collapse: collapse; margin-left: auto; margin-right: auto; width: 50%;&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;Персональные данные&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;
+			&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;*******&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;span style=&quot;font-family: robotomedium, arial, helvetica, sans-serif; font-size: 28px; font-style: normal; font-variant: normal; line-height: 33.599998474121094px;&quot;&gt;*******&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;Обработка персональных данных&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;
+			&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;*******&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;span style=&quot;font-family: robotomedium, arial, helvetica, sans-serif; font-size: 28px; font-style: normal; font-variant: normal; line-height: 33.599998474121094px;&quot;&gt;*******&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;Оператор&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;
+			&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; line-height: 19.200000762939453px;&quot;&gt;*******&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;span style=&quot;font-family: robotomedium, arial, helvetica, sans-serif; font-size: 28px; font-style: normal; font-variant: normal; line-height: 33.599998474121094px;&quot;&gt;*******&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;Блокировка персональных данных&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;
+			&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; line-height: 19.200000762939453px;&quot;&gt;*******&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;span style=&quot;font-family: robotomedium, arial, helvetica, sans-serif; font-size: 28px; font-style: normal; font-variant: normal; line-height: 33.599998474121094px;&quot;&gt;*******&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;Трансграничная передача персональных данных&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td style=&quot;padding: 5px; border: 1px solid rgb(0, 0, 0);&quot;&gt;
+			&lt;p&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:robotomedium,arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; line-height: 19.200000762939453px;&quot;&gt;*******&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;span style=&quot;font-family: robotomedium, arial, helvetica, sans-serif; font-size: 28px; font-style: normal; font-variant: normal; line-height: 33.599998474121094px;&quot;&gt;*******&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="image" guid="7197637b_9137_4837_9d93_f1402a8b7447" id="IMG_29" label="Картинка 6" expanded="yes" left="1121" top="13" width="137" height="135" display="frame" begin="0">
+<src>images\закрыть.png</src>
+<events>
+<onclick id="IMG_29_1" expanded="yes" type="actions">
+<RETURN/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="8fb31d7e_9a57_41e4_809d_f757048e04cd" id="SLIDE_11" expanded="yes" sid="28" masterid="SLIDE_9" name="Без названия" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="b3689515_6ed2_4a8a_a490_a7bd74af0e8a" id="FRAME_12" expanded="yes" dur="0">
+<objects>
+<object type="iebox" guid="d1f549c5_b3d0_45b4_a7a5_dd1487221c9a" id="TXT_9" label="Текстовый блок 15" expanded="yes" left="95" top="61" width="425" height="76" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:72px;&quot;&gt;&lt;span style=&quot;color:#000080;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif;&quot;&gt;Содержание&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="266a3193_b6f3_44d5_9242_acd5259e44ba" id="TXT_10" label="Текстовый блок 16" expanded="yes" left="154" top="426" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 1&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="10f7a921_732b_4ff8_8356_cc85ddefead7" id="TXT_11" label="Текстовый блок 17" expanded="yes" left="367" top="426" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 2&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="b1c80a56_c272_4575_896e_b32736e36b9f" id="TXT_12" label="Текстовый блок 18" expanded="yes" left="586" top="426" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 3&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="7c029f41_29d5_4424_89aa_7d151bb751c1" id="TXT_13" label="Текстовый блок 19" expanded="yes" left="810" top="427" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 4&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="ada80c3e_aaeb_40da_bfec_80ebb174c5a7" id="TXT_14" label="Текстовый блок 20" expanded="yes" left="1043" top="427" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 5&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="image" guid="700b653b_0a4e_4d38_bb70_237595ff70ce" id="IMG_15" label="Картинка 7" expanded="yes" left="111" top="249" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 1.png</src>
+</object>
+<object type="image" guid="c192b33a_334f_49a3_b780_3ddc1540b0de" id="IMG_16" label="Картинка 8" expanded="yes" left="333" top="250" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 2.png</src>
+</object>
+<object type="image" guid="5024a36c_542f_4b44_9393_35c20bba59a9" id="IMG_17" label="Картинка 9" expanded="yes" left="547" top="248" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 3.png</src>
+</object>
+<object type="image" guid="3661be01_1eb6_4a0a_94ef_19f7006ceb1e" id="IMG_18" label="Картинка 11" expanded="yes" left="768" top="251" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 4.png</src>
+</object>
+<object type="image" guid="83b46206_772c_4d66_a5d0_eb28ac487212" id="IMG_20" label="Картинка 12" expanded="yes" left="1003" top="249" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 5.png</src>
+</object>
+<object type="image" guid="540ef40f_1d85_4dde_a447_5f78775ecc7b" id="IMG_31" label="Картинка 1" expanded="yes" left="1121" top="13" width="137" height="135" display="frame" begin="0">
+<src>images\закрыть.png</src>
+<events>
+<onclick id="IMG_31_1" expanded="yes" type="actions">
+<RETURN/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="76d9037f_162f_421b_9c39_e7580b73998d" id="SLIDE_12" expanded="yes" sid="29" masterid="SLIDE_9" name="Без названия" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="64ea8c91_a623_4bae_89fa_fa4975795da2" id="FRAME_13" expanded="yes" dur="0">
+<objects>
+<object type="iebox" guid="306d6711_b746_498f_a626_16276a0de6b5" id="TXT_23" label="Текстовый блок 7" expanded="yes" left="95" top="61" width="425" height="76" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:72px;&quot;&gt;&lt;span style=&quot;color:#000080;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif;&quot;&gt;Содержание&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="06038838_9d40_441c_b5ff_26674ba7d724" id="TXT_17" label="Текстовый блок 8" expanded="yes" left="154" top="426" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 1&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="9fa7852f_373c_4e89_a495_cd201a5480a9" id="TXT_18" label="Текстовый блок 9" expanded="yes" left="367" top="426" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 2&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="148ada6c_42ac_4b84_8a15_b3f991c9cfb5" id="TXT_19" label="Текстовый блок 10" expanded="yes" left="586" top="426" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 3&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="c968474a_9f47_454d_a062_d1b8b058ead7" id="TXT_20" label="Текстовый блок 11" expanded="yes" left="810" top="427" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 4&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="14722e9c_64b4_4944_af11_1f1e2f6c27d3" id="TXT_21" label="Текстовый блок 12" expanded="yes" left="1043" top="427" width="129" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;strong&gt;&lt;span style=&quot;font-size:26px;&quot;&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Слайд 5&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="image" guid="cb480a2c_22b4_4fc5_83a2_2148f75c9683" id="IMG_21" label="Картинка 13" expanded="yes" left="111" top="249" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 1.png</src>
+</object>
+<object type="image" guid="f6f55414_12fc_4d77_8730_239527092b8c" id="IMG_22" label="Картинка 14" expanded="yes" left="333" top="250" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 2.png</src>
+</object>
+<object type="image" guid="ad819e1d_a746_4815_8417_1a61a79c0169" id="IMG_23" label="Картинка 15" expanded="yes" left="547" top="248" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 3.png</src>
+</object>
+<object type="image" guid="aa87dc8a_a452_44a2_8038_3cb82a377f54" id="IMG_24" label="Картинка 16" expanded="yes" left="768" top="251" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 4.png</src>
+</object>
+<object type="image" guid="4024bf72_c0c5_4a57_9138_20035b292176" id="IMG_25" label="Картинка 17" expanded="yes" left="1003" top="249" width="166" height="164" display="frame" begin="0">
+<src>images\слайд 5.png</src>
+</object>
+<object type="image" guid="95bbea07_237e_40e5_9b0c_6e0e09038929" id="IMG_32" label="Картинка 22" expanded="yes" left="1121" top="13" width="137" height="135" display="frame" begin="0">
+<src>images\закрыть.png</src>
+<events>
+<onclick id="IMG_32_1" expanded="yes" type="actions">
+<RETURN/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="63d4b2a6_d5ec_4bba_9770_b0bb13d2daa5" id="SLIDE_13" expanded="yes" sid="33" masterid="SLIDE_9" name="Без названия" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="0bc2e63f_da4e_49e5_8313_6ee7758b36b7" id="FRAME_14" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="76e171a2_2c0b_4c6c_aa54_3720d7a31308" id="IMG_39" label="Картинка 32" expanded="yes" left="146" top="192" width="273" height="355" display="frame" begin="0">
+<src>images\man2.jpg</src>
+<events>
+<onclick id="IMG_39_1" expanded="yes" type="actions">
+<VARIABLE name="man2" value="2" global="1"/>
+</onclick>
+</events>
+</object>
+<object type="image" guid="a0ca41d1_2fb8_4d77_9f3f_c38a7024563f" id="IMG_40" label="Картинка 33" expanded="yes" left="748" top="192" width="273" height="353" display="frame" begin="0">
+<src>images\wom1.jpg</src>
+<events>
+<onclick id="IMG_40_1" expanded="yes" type="actions">
+<VARIABLE name="wom1" value="1" global="1"/>
+</onclick>
+</events>
+</object>
+<object type="div" guid="2b0f2c3d_bf7d_4bc0_95b0_e66b6a82369d" id="OBJ_7" label="Кнопка навигационная 1" expanded="yes" state_extension="false" left="483" top="600" width="193" height="52" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>nav_0000_btn_navi</template>
+<design_content><![CDATA[<style >
+		.cl-btn { width: 193px; height: 52px; }
+		
+			.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; border-radius: 5px;box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+			.cl-idle { border-color: #004080; background-color: #0080C0;background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+			.cl-btn-bg { width: 191px; height: 50px;  }
+			.cl-btn-table { width: 191px; height: 50px; }
+			.cl-btn-table-content { width: 191px; height: 50px; text-align: center; padding: 0 0px 0 0px;  
+		font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 24px; color: #001F3E; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-html cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">Готово</td></tr></table></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_7 .cl-btn"><span class="rule-static">width: 193px; height: 52px;</span></div><div class="rule" data-name="#OBJ_7 .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_7 .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_7 .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#OBJ_7 .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_7 .cl-btn-bg"><span class="rule-static">width: 191px; height: 50px;</span></div><div class="rule" data-name="#OBJ_7 .cl-btn-table"><span class="rule-static">width: 191px; height: 50px;</span></div><div class="rule" data-name="#OBJ_7 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 191px; height: 50px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 24px; color: #001F3E; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_7 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">Готово</td></tr></table></div></div></div>]]></export_content>
+<params>
+<role type="select">nextslide</role>
+<selectedslide type="slideid"></selectedslide>
+<selectedframe type="subslideid"></selectedframe>
+<fs_thisslide type="fieldset"></fs_thisslide>
+<text_thisslide type="edit">ПОВТОР</text_thisslide>
+<alt_enabled_thisslide type="edit">Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide type="edit">Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide type="fieldset"></fs_nextslide>
+<text_nextslide type="edit">Готово</text_nextslide>
+<alt_enabled_nextslide type="edit">Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide type="edit">Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide type="fieldset"></fs_prevslide>
+<text_prevslide type="edit">НАЗАД</text_prevslide>
+<alt_enabled_prevslide type="edit">Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide type="edit">Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide type="fieldset"></fs_firstslide>
+<text_firstslide type="edit">НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide type="edit">Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide type="edit">Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide type="fieldset"></fs_lastslide>
+<text_lastslide type="edit">КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide type="edit">Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide type="edit">Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe type="fieldset"></fs_nextframe>
+<text_nextframe type="edit">Далее</text_nextframe>
+<alt_enabled_nextframe type="edit">Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe type="edit">Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe type="fieldset"></fs_prevframe>
+<text_prevframe type="edit">Назад</text_prevframe>
+<alt_enabled_prevframe type="edit">Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe type="edit">Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe type="fieldset"></fs_firstframe>
+<text_firstframe type="edit">Начало</text_firstframe>
+<alt_enabled_firstframe type="edit">Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe type="edit">Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe type="fieldset"></fs_lastframe>
+<text_lastframe type="edit">Конец</text_lastframe>
+<alt_enabled_lastframe type="edit">Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe type="edit">Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide type="fieldset"></fs_selectedslide>
+<text_selectedslide type="edit"></text_selectedslide>
+<alt_enabled_selectedslide type="edit">Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide type="edit">Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe type="fieldset"></fs_selectedframe>
+<text_selectedframe type="edit"></text_selectedframe>
+<alt_enabled_selectedframe type="edit">Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe type="edit">Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule type="fieldset"></fs_closemodule>
+<text_closemodule type="edit">ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule type="edit">Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule type="edit"></alt_disabled_closemodule>
+<display_closemodule_msg type="check">no</display_closemodule_msg>
+<closemodule_msg type="edit">Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock type="check">yes</nav_lock>
+<swipe type="check">yes</swipe>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<n3_img type="file"></n3_img>
+<fs_html type="fieldset"></fs_html>
+<bg_type type="select">auto</bg_type>
+<border_style type="select">solid</border_style>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<bg_color type="color">#0080C0</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_color type="color">#004080</border_color>
+<shadow_strength type="select">normal</shadow_strength>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_img_3 type="file"></bg_img_3>
+<bg_position type="select">center</bg_position>
+<fs_text type="fieldset"></fs_text>
+<text_position type="select">center</text_position>
+<text_margin_left type="spinner">0</text_margin_left>
+<text_margin_right type="spinner">0</text_margin_right>
+<font type="select">robotomedium</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">24</font_size>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<font_color type="color">#001F3E</font_color>
+<font_color_over type="color">#4080C0</font_color_over>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+</object>
+<object type="iebox" guid="db56e992_8887_4a88_a9f4_1314b00a8350" id="TXT_30" label="Текстовый блок 14" expanded="yes" left="326" top="100" width="544" height="50" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: robotoregular, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;Выберите персонажа и представьтесь&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="7247a3b9_f564_4877_92d9_5e9fd6a59e0c" id="SLIDE_14" expanded="yes" sid="34" masterid="SLIDE_9" name="Без названия" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="7c74675c_2057_4dbf_869d_f51010cbdfed" id="FRAME_15" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="e59e81bb_c118_4540_a232_4b86bab08077" id="IMG_36" label="Картинка 19" expanded="yes" left="99" top="50" width="467" height="634" display="frame" begin="0">
+<src>images\Mm.png</src>
+<events>
+<ondisplay id="IMG_36_1" expanded="yes" type="actions">
+<IF type="expression" fs_expression="" if="#man2==2" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<DISPLAY _indent="1" pid="IMG_37" display="inline" transition="0" fs_dur="" dur="1000"/>
+<IF type="expression" fs_expression="" if="#wom1==1" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<DISPLAY _indent="1" pid="IMG_38" display="inline" transition="0" fs_dur="" dur="1000"/>
+</ondisplay>
+</events>
+</object>
+<object type="image" guid="e06b8ca5_d456_40b5_bddb_e7dbf445ac2f" id="IMG_37" label="Картинка 20" expanded="yes" left="700" top="100" width="273" height="355" display="none" begin="0">
+<src>images\man2.jpg</src>
+</object>
+<object type="image" guid="c02b3b7c_ff9c_4495_8ffc_853331acb21c" id="IMG_38" label="Картинка 21" expanded="yes" left="701" top="101" width="273" height="353" display="none" begin="0">
+<src>images\wom1.jpg</src>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+</slides>
+<objectives>
+<objective id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0" module="yes"/>
+</objectives>
+<runtimechecks>
+<runtimecheck id="MSMP" check="0"/>
+<runtimecheck id="MMFP" check="0"/>
+<runtimecheck id="MMSW" check="0"/>
+<runtimecheck id="APQT" check="0"/>
+</runtimechecks>
+</module>
